@@ -1,0 +1,41 @@
+#content{
+	margin-top: 75px;
+}
+p {
+	color: blue;
+}
+.navbar {
+	font-weight: bold;
+	background-color: #FFD384;
+}
+.jumbotron {
+	position: relative;
+	background: url("../images/woodward.jpg") center center;
+	width:100%;
+	height: 100%;
+	background-size: cover;
+	overflow: hidden;
+	padding-bottom: -90px;
+}
+.jumbotron_text {
+	background-color: #FFB684;
+	color: black;
+	padding: 100px;
+}
+
+.thumbnail {
+	margin:30px;
+}
+.input {
+	width: 100%;
+}
+body{
+	background-color: #BCFFF0;
+}
+.profilepic{
+	border: 10px solid blue;
+}
+#footer {
+	text-align: center;
+	margin-top: 50px;
+}
